@@ -1,0 +1,34 @@
+To check if Python is Installed
+--------------------------------
+Go To command prompt
+C:\> python
+
+To check Python version
+-----------------------
+C:\>pythong --version
+
+Download 3.7.8 from Python.org (64bit/34bit)
+select path check box without fail during installation
+
+Notepad++
+-------------------------
+install notepad++ and use this as editor
+
+.py is the python file extension
+
+Data Types
+-------------
+Numbers
+Strings
+Tuples
+Dictionaries
+
+
+Numbers
+----------
+Integer
+float
+Complex
+
+Strings
+-----------
