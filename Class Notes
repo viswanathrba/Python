@@ -20,23 +20,25 @@ install notepad++ and use this as editor
 
 .py is the python file extension
 
-Data Types
--------------
-Numbers
-Strings
-Tuples
-Dictionaries
-
-
-Numbers
-----------
-Integer
-float
-Complex
-
-Strings
+1)Numbers
+    python 3x
+        integer
+        float
+        complex
+    python 2x
+        integer
+        long integer
+        float
+        complex
+2)Strings
+3)Tuples
+4)Dictionaries
+5)Lists
+6)Sets
 -----------
-explore builtin string methods
+Practise 
+-----------
+Explore builtin string methods
 
 
 
