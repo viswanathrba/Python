@@ -34,6 +34,8 @@ refer https://www.tutorialspoint.com/python/
         float
         complex
 2)Strings
+    capitalize()
+    
 3)Tuples
 4)Dictionaries
 5)Lists
