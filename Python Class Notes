@@ -39,7 +39,17 @@ https://www.virtualbox.org/
         complex
 2)Strings
     capitalize()
-    
+    center(width, fillchar)
+    count(str, beg= 0,end=len(string))
+    endswith(suffix)
+    expandtabs()
+    isalnum()
+    isalpha()
+    isdigit()
+    islower()
+    len(string)
+    lower()
+    upper()
 3)Tuples
 4)Dictionaries
 5)Lists
