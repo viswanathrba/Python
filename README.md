@@ -56,6 +56,7 @@ Strings
     len(string)
     lower()
     upper()
+    etc...
     
 
 Practice : Explore builtin string methods
@@ -83,7 +84,20 @@ Lists
     remove
     reverse
     sort
-      
+
+Set
+--------
+    add
+    clear
+    copy
+    diference
+    discard
+    intersection
+    isdisjoint
+    pop
+    union
+    update
+    etc..
 
 Dictionary
 ----------
