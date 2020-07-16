@@ -51,7 +51,7 @@ https://www.virtualbox.org/
     lower()
     upper()
 3)Tuples
-4)Dictionaries
+4)Dictionary
 5)Lists
 6)Sets
 -----------
@@ -66,9 +66,25 @@ Explore builtin string methods
 
 Tuples
 --------
-tuple functions
-cmp(tup1, tup2)
+    count
+    index
+    
 
+Dictionary
+----------
+    Clear
+    Fromkeys
+    Copy
+    Get
+    items
+    keys
+    pop
+    popitem
+    setdefault
+    update
+    values
+    
+    
 
 
 
