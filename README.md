@@ -12,7 +12,7 @@ C:\> python
 
 To check Python version
 -----------------------
-C:\>pythong --version
+C:\>python --version
 
 Download 3.7.8 from Python.org (64bit/34bit)
 select path check box without fail during installation
@@ -21,20 +21,20 @@ Notepad++ : install notepad++ and use this as editor
 
 Important URL's
 ------------------------
-docs  https://www.tutorialspoint.com/python/
-vm https://www.linuxvmimages.com/images/centos-7/
-https://www.virtualbox.org/
+    https://www.tutorialspoint.com/python/
+    https://www.linuxvmimages.com/images/centos-7/
+    https://www.virtualbox.org/
 
 
 -----------
 Data Types
 -----------
-Numbers
-Strings
-Tuples
-Dictionary
-Lists
-Sets
+    Numbers
+    Strings
+    Tuples
+    Dictionary
+    Lists
+    Sets
 
 Numbers
 ---------
