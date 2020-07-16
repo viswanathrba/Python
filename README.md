@@ -29,6 +29,9 @@ https://www.virtualbox.org/
 
 .py is the python file extension
 
+-----------
+Data Types
+-----------
 1)Numbers
     python 3x
         integer
@@ -56,10 +59,8 @@ https://www.virtualbox.org/
 4)Dictionary
 5)Lists
 6)Sets
------------
-Practise 
------------
-Explore builtin string methods
+
+Practice : Explore builtin string methods
 
 
 ------------------------
