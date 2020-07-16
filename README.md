@@ -1,7 +1,7 @@
 # Python
 
 ------------------------
-######## Day 1 ########
+# Day 1 
 ------------------------
 
 
@@ -62,7 +62,7 @@ Practice : Explore builtin string methods
 
 
 ------------------------
-######## Day 2 ########
+# Day 2 
 ------------------------
 
 Tuples
@@ -88,6 +88,7 @@ Dictionary
 Practice : Explore varios operations in Tuples, Dict, list & set
 
 ------------------------
-# Day 2 
+# Day 2
 ------------------------
+
 
