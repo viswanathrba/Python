@@ -64,5 +64,11 @@ Explore builtin string methods
 ######## Day 2 ########
 ------------------------
 
+Tuples
+--------
+tuple functions
+cmp(tup1, tup2)
+
+
 
 
