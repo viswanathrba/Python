@@ -1,4 +1,4 @@
-# **Python**
+# **Python Tutorial**
 
 ------------------------
 # **Day 1**
@@ -88,7 +88,7 @@ Dictionary
 Practice : Explore varios operations in Tuples, Dict, list & set
 
 ------------------------
-# **Day 2**
+# **Day 3**
 ------------------------
 
 
