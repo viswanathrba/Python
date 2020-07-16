@@ -84,3 +84,5 @@ Dictionary
     setdefault
     update
     values
+
+Practice : Explore varios operations in Tuples, Dict, list & set
