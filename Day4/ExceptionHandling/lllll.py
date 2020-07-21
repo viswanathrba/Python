@@ -1,0 +1,1 @@
+a = open("anjan.txt", "r")
