@@ -88,6 +88,8 @@ String Methods :
 
 Tuples
 --------
+A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The main difference between the tuples and the lists is that the tuples cannot be changed unlike lists. Tuples use parentheses, whereas lists use square brackets.
+
     count
     index
     
