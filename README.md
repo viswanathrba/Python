@@ -125,6 +125,8 @@ Set
 
 Dictionary
 ----------
+Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
+
     Clear
     Fromkeys
     Copy
@@ -137,7 +139,9 @@ Dictionary
     update
     values
 
-Practice : Explore varios operations in Tuples, Dict, list & set
+
+
+
 
 ------------------------
 # **Day 3**
