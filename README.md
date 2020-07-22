@@ -62,11 +62,16 @@ String Methods :
     capitalize()
     center(width, fillchar)
     count(str, beg= 0,end=len(string))
+    Decode
+    Encode
     endswith(suffix)
     expandtabs()
+    find
+    index
     isalnum()
     isalpha()
     isdigit()
+    isnumeric
     islower()
     len(string)
     lower()
