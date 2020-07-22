@@ -47,12 +47,14 @@ Data Types
 
 Numbers
 ---------
-    python 3x
-        integer
-        float
-        complex
+        integer  (1,10000,-34,0x431 etc..)
+        float (0.0, 234.4543, -435.334 etc...)
+        complex (32e+565J, -54e+45J etc..)
 Strings
 ---------
+Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows either pair of single or double quotes.
+Subsets of strings can be taken using the slice operator [ ] & [ : ]
+
     capitalize()
     center(width, fillchar)
     count(str, beg= 0,end=len(string))
