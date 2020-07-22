@@ -96,6 +96,7 @@ A tuple is a collection of objects which ordered and immutable. Tuples are seque
 Lists
 --------
 list of comma-separated values (items) between square brackets, items in a list need not be of the same type.
+   
     append
     clear
     copy
