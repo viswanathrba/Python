@@ -167,3 +167,10 @@ New Style
     elif a < b:print("Elif Second Message")
     else: print(False)
 
+
+Loops
+----------
+    For Loop
+    while loop
+    nested loops
+
