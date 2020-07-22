@@ -55,6 +55,8 @@ Strings
 Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows either pair of single or double quotes.
 Subsets of strings can be taken using the slice operator [ ] & [ : ]
 
+String Special Operators : + , *, [], [:], in, not in, %
+
     capitalize()
     center(width, fillchar)
     count(str, beg= 0,end=len(string))
