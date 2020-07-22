@@ -57,6 +57,8 @@ Subsets of strings can be taken using the slice operator [ ] & [ : ]
 
 String Special Operators : + , *, [], [:], in, not in, %
 
+String Methods :
+
     capitalize()
     center(width, fillchar)
     count(str, beg= 0,end=len(string))
@@ -72,7 +74,7 @@ String Special Operators : + , *, [], [:], in, not in, %
     etc...
     
 
-Practice : Explore builtin string methods
+
 
 
 ------------------------
