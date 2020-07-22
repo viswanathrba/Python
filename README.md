@@ -25,6 +25,15 @@ Important URL's
     https://www.linuxvmimages.com/images/centos-7/
     https://www.virtualbox.org/
 
+Assigning value to variables
+---------------------
+    a = "Hello"
+    b = 1
+    C = 23.6
+    
+    a = b = c = "Hello"
+    
+    a, b, c = "hello", 1, 23.6
 
 
 Data Types
