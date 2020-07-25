@@ -26,8 +26,10 @@ Important URL's
     https://www.virtualbox.org/
 
 Basics of Python
-----------------
-Identifiers - names given to variables, functions, etc.
+----------------  
+##### Keywords - reserved words in Python, keywords are case sensitive.
+There are 33 keywords in Python 3.7 (Ex: False, True, if , else, in, import, def, for, while, with, or, as etc..)
+##### Identifiers - names given to variables, functions, etc. Cannot use keyword as a variable name, function name or any other identifier
 
 Assigning value to variables
 ---------------------
