@@ -154,8 +154,9 @@ Ex: {1, 4, 9, 6, 8}
 
 Dictionary
 ----------
+Dictionary is an unordered collection of key-value pairs. Key and value can be of any type.
 Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
-
+{Key: Value}
 Ex: {'name': 'Alan', 'Age': '40', 'place': 'PA'}
 
     Clear
@@ -171,7 +172,12 @@ Ex: {'name': 'Alan', 'Age': '40', 'place': 'PA'}
     values
 
 
-
+Python Inputs & Outputs
+----------------------
+print()
+print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
+curly braces {} are used as placeholders. str.format()
+print("my first name is {} and last name is {}".format("Viswanath", "Reddy"))
 
 
 ------------------------
