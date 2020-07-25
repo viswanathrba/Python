@@ -128,7 +128,9 @@ Ex: ["Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391]
 
 Tuples
 --------
-A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The main difference between the tuples and the lists is that the tuples are immutable, cannot be changed unlike lists. Tuples use parentheses, whereas lists use square brackets.
+A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. \n
+The main difference between the tuples and the lists is that the tuples are immutable, cannot be changed unlike lists.\n
+Tuples use parentheses, whereas lists use square brackets.\n
 Ex: ("Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391)
 
     count
@@ -137,7 +139,7 @@ Ex: ("Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391)
     
 Set
 --------
-Set is an unordered collection of unique items. Set is defined by values separated by comma inside braces { }.
+Set is an unordered collection of unique items. Set is defined by values separated by comma inside braces { }.\n
 Ex: {1, 4, 9, 6, 8}
 
     add
