@@ -25,6 +25,10 @@ Important URL's
     https://www.linuxvmimages.com/images/centos-7/
     https://www.virtualbox.org/
 
+Basics of Python
+----------------
+Identifiers - names given to variables, functions, etc.
+
 Assigning value to variables
 ---------------------
     a = "Hello"
