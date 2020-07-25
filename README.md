@@ -89,6 +89,7 @@ String Methods :
 Tuples
 --------
 A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The main difference between the tuples and the lists is that the tuples cannot be changed unlike lists. Tuples use parentheses, whereas lists use square brackets.
+Ex: ("Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391)
 
     count
     index
@@ -96,6 +97,7 @@ A tuple is a collection of objects which ordered and immutable. Tuples are seque
 Lists
 --------
 list of comma-separated values (items) between square brackets, items in a list need not be of the same type.
+Ex: ["Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391]
    
     append
     clear
@@ -111,6 +113,8 @@ list of comma-separated values (items) between square brackets, items in a list 
 
 Set
 --------
+Ex: {"Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391}
+
     add
     clear
     copy
@@ -126,6 +130,8 @@ Set
 Dictionary
 ----------
 Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
+
+Ex: {'name': 'Alan', 'Age': '40', 'place': 'PA'}
 
     Clear
     Fromkeys
