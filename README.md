@@ -22,8 +22,7 @@ Notepad++ : install notepad++ and use this as editor
 Important URL's
 ------------------------
     https://www.tutorialspoint.com/python/
-    https://www.linuxvmimages.com/images/centos-7/
-    https://www.virtualbox.org/
+    https://www.programiz.com/python-programming
 
 Introduction
 ----------------  
@@ -108,17 +107,10 @@ String Methods :
 # **Day 2**
 ------------------------
 
-Tuples
---------
-A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The main difference between the tuples and the lists is that the tuples cannot be changed unlike lists. Tuples use parentheses, whereas lists use square brackets.
-Ex: ("Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391)
-
-    count
-    index
-    
 Lists
 --------
-list of comma-separated values (items) between square brackets, items in a list need not be of the same type.
+Most used datatype in Python, list of comma-separated values (items) between square brackets, items in a list need not be of the same type.
+Lists are mutable, the value of elements of a list can be altered.
 Ex: ["Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391]
    
     append
@@ -133,9 +125,20 @@ Ex: ["Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391]
     reverse
     sort
 
+
+Tuples
+--------
+A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The main difference between the tuples and the lists is that the tuples are immutable, cannot be changed unlike lists. Tuples use parentheses, whereas lists use square brackets.
+Ex: ("Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391)
+
+    count
+    index
+    
+    
 Set
 --------
-Ex: {"Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391}
+Set is an unordered collection of unique items. Set is defined by values separated by comma inside braces { }.
+Ex: {1, 4, 9, 6, 8}
 
     add
     clear
