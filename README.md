@@ -128,9 +128,9 @@ Ex: ["Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391]
 
 Tuples
 --------
-A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. \n
-The main difference between the tuples and the lists is that the tuples are immutable, cannot be changed unlike lists.\n
-Tuples use parentheses, whereas lists use square brackets.\n
+A tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists.  
+The main difference between the tuples and the lists is that the tuples are immutable, cannot be changed unlike lists.  
+Tuples use parentheses, whereas lists use square brackets.  
 Ex: ("Bangalore, 'Chennai', 'Hyderabad', 34, 56, 391)
 
     count
