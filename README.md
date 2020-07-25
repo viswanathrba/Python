@@ -28,13 +28,13 @@ Introduction
 ----------------  
 ##### Keywords 
 Reserved words in Python, keywords are case sensitive.
-There are 33 keywords in Python 3.7 (Ex: False, True, if , else, in, import, def, for, while, with, or, as etc..)
+There are 33 keywords in Python 3.7 (Ex: False, True, if , else, in, import, def, for, while, with, or, as etc..).
 
 ##### Identifiers 
-Names given to variables, functions, etc. Cannot use keyword as a variable name, function name or any other identifier
+Names given to variables, functions, etc. Cannot use keyword as a variable name, function name or any other identifier.
 
 ##### Statements
-Instructions that a Python interpreter can execute are called statements. Ex: Assignment statement a = 1
+Instructions that a Python interpreter can execute are called statements. Ex: Assignment statement a = 1.
 
 ##### Indentation
 C, C++, and Java use braces { } to define a block of code.
@@ -42,8 +42,8 @@ Python uses indentation. code block (body of a function, loop, etc.) starts with
 Four whitespaces are used for indentation
 
 ##### Comments
-use the hash(#) symbol at the beginning of each line
-Or use triple quotes, either ''' or """
+use the hash(#) symbol at the beginning of each line.
+Or use triple quotes, either ''' or """.
 
 
 Assigning value to variables
@@ -174,10 +174,10 @@ Ex: {'name': 'Alan', 'Age': '40', 'place': 'PA'}
 
 Python Inputs & Outputs
 ----------------------
-print()
-print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
-curly braces {} are used as placeholders. str.format()
-print("my first name is {} and last name is {}".format("Viswanath", "Reddy"))
+print().
+print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False).
+curly braces {} are used as placeholders. str.format().
+print("my first name is {} and last name is {}".format("Viswanath", "Reddy")).
 
 
 ------------------------
