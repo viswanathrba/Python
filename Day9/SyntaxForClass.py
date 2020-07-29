@@ -4,11 +4,12 @@ class class_name:
         return arg1 + arg2
     def function2_name(self, arg1, arg2):
         return arg1 + arg2
-
+#style One Call Class
 inst = class_name()
 print(inst.function1_name(val1, val2))
 print(inst.function2_name(val1, val2))
 
+#style Two Call Class
 print(class_name().function1_name(val1, val2))
 print(class_name().function2_name(val1, val2))
 
@@ -23,9 +24,11 @@ class class_name:
     def function2_name(self, arg1, arg2):
         return arg1 + arg2, self.proper
 
+#style One Call Class
 inst = class_name('xyz', 'abc')
 print(inst.function1_name(val1, val2))
 print(inst.function2_name(val1, val2))
 
+#style Two Call Class
 print(class_name('xyz', 'abc').function1_name(val1, val2))
 print(class_name('xyz', 'abc').function2_name(val1, val2))
