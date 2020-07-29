@@ -16,6 +16,7 @@ print(class_name().function2_name(val1, val2))
 '''    With Class Variables    '''
 
 class class_name:
+    '''    Constructor For Class Variable Declaration    '''
     def __init__(self, name, proper):
         self.name = name
         self.proper = proper
